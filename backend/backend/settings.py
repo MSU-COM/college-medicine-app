@@ -53,7 +53,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
-    'https://college-medicine-frontend.onrender.com',
+    'https://msu-college-medicine-frontend.onrender.com',
 ]
 
 
